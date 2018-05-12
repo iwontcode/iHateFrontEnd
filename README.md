@@ -1,10 +1,63 @@
-## Welcome to GitHub Pages
+## Welcome to iHateFrontEnd
 
 You can use the [editor on GitHub](https://github.com/iwontcode/iHateFrontEnd/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This page is an evolving resource for all things a Front-End developer should know about. There's never an end to this expanding universe and this page is not aiming to be the ultimate resource. This is more of a note to myself so that my dying brain cells can be brought back to life with this guide.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### JavaScript
+1. Closures
+2. Hoisting
+3. Event Delegation
+4. Why IIFE?
+5. Inheritance and Encapsulation
+6. Comparison Operators
+7. Array Methods - Map, Reduce, Filter, splice, split
+8. Promises
+9. Invoking methods - call, apply and bind
+10. Function currying
+11. What is REST?
+12. What is cache busting?
+13. Object creation in JS
+14. JS Patterns - [Singleton](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#singletonpatternjavascript) [Revealing Module](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#singletonpatternjavascript) [PubSub](https://gist.github.com/learncodeacademy/777349747d8382bfb722)
+
+### ES 6 Features
+1. let, const
+2. Arrow Functions
+3. async/await
+4. Classes
+5. Template Strings
+6. Modules
+
+### AngularJS (1.x)
+- Digest cycle
+- Controller to controller communication
+- What are directives? Directive Scope, Element Type, Directive Lifecycle
+- Example of directive you created - Audio Player
+- Directive to directive communication
+- UI router features and advantages
+- Config vs. Run
+- one-way binding, 2-way binding, once time binding
+
+### CSS 
+1. CSS Positions
+2. Align to center horizontally/vertically
+3. Inline vs. Block element
+
+### Performance
+- Minify and concat
+- Gzip
+- Images compress
+- Use something like RequireJS
+- Cache variables that access DOM elements
+
+### Accessibility
+- Color contrast
+- ARIA
+- Screen readers
+
+### HTML5 features
+TBD
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
