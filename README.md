@@ -1,9 +1,6 @@
 ## Welcome to iHateFrontEnd
 
-You can use the [editor on GitHub](https://github.com/iwontcode/iHateFrontEnd/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 This page is an evolving resource for all things a Front-End developer should know about. There's never an end to this expanding universe and this page is not aiming to be the ultimate resource. This is more of a note to myself so that my dying brain cells can be brought back to life with this guide.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### JavaScript
 1. Closures
@@ -19,7 +16,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 11. What is REST?
 12. What is cache busting?
 13. Object creation in JS
-14. JS Patterns - [Singleton](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#singletonpatternjavascript) [Revealing Module](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#singletonpatternjavascript) [PubSub](https://gist.github.com/learncodeacademy/777349747d8382bfb722)
+14. JS Patterns - [Singleton |](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#singletonpatternjavascript) [Revealing Module |](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#singletonpatternjavascript) [PubSub |](https://gist.github.com/learncodeacademy/777349747d8382bfb722)
 
 ### ES 6 Features
 1. let, const
