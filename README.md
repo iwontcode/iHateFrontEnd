@@ -16,7 +16,7 @@ This page is an evolving resource for all things a Front-End developer should kn
 11. What is REST?
 12. What is cache busting?
 13. Object creation in JS
-14. JS Patterns - [Singleton |](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#singletonpatternjavascript) [Revealing Module |](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#singletonpatternjavascript) [PubSub |](https://gist.github.com/learncodeacademy/777349747d8382bfb722)
+14. JS Patterns - [Singleton](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#singletonpatternjavascript)  [Revealing Module](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#singletonpatternjavascript)  [PubSub](https://gist.github.com/learncodeacademy/777349747d8382bfb722)
 
 ### ES 6 Features
 1. let, const
